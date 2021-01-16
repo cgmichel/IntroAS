@@ -1,2 +1,4 @@
 # IntroAS
- Introducccion al análisis de supervivencia
+ Introducccion al análisis de supervivencia.
+ 
+ Pequeña plática para Queryntalks
